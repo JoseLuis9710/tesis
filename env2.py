@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Nov 24 14:13:40 2020
-
-@author: Santiago Matinez
 """
 
 
